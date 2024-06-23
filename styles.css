@@ -270,16 +270,16 @@ body{
 
 	#hometitle{
 		margin-top: 17%;
-		font-size: 2.5vh;
-		margin-right: 30%;
+		font-size: 3.5vh;
+		margin-right: 20%;
 		
 	}
 
 	#homesubtitle{
-		margin-top: 4%;
-		font-size: 1vh;
+		margin-top: 10%;
+		font-size: 1.5vh;
 		color: #c3c8c9;
-		margin-right: 40%;
+		margin-right: 20%;
 	}
 	
 	#gitbutton{
@@ -291,7 +291,7 @@ body{
 		cursor: pointer;
 		display: inline-block;
 		text-decoration: none !important; 
-		margin-top: 8%;
+		margin-top: 12%;
 		font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
 	}
 	
@@ -309,7 +309,7 @@ body{
 		cursor: pointer;
 		display: inline-block;
 		text-decoration: inherit;
-		margin-top: 4%;
+		margin-top: 12%;
 	}
 
 	#gitbutton:active{
@@ -321,7 +321,7 @@ body{
 		cursor: pointer;
 		display: inline-block;
 		text-decoration: inherit;
-		margin-top: 4%;
+		margin-top: 12%;
 	}
 
 	#gitbutton:hover{
@@ -333,13 +333,13 @@ body{
 		cursor: pointer;
 		display: inline-block;
 		text-decoration: inherit;
-		margin-top: 4%;
+		margin-top: 12%;
 	}
 
 	#rights{
-		margin-left: 15%;
-		margin-bottom: 70%;
-		font-size: .9vh;
+		margin-left: 20%;
+		margin-bottom: 3%;
+		font-size: 1.1vh;
 		color: rgba(195, 200, 201, 0.3);
 		font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
 		user-select: none;
